@@ -11,7 +11,7 @@ This repo contains notes,concepts,code snippets and hands-on practice that i lea
 - 💻 Practical **code snippets** using tools like Python, Pandas, NumPy, etc.
 - 🧪 **Hands-on practice** problems with solutions
 - ✅ Clean formats to help others easily understand and revise
-## Topics Will Include
+## 💡Topics Will Include
 - Python for Data Science
 - SQl for Data Queries
 - Data Cleaning
